@@ -1,0 +1,95 @@
+<style>
+           
+                     
+			 body {
+             
+                 position: relative;
+                 padding: 0px;
+                 margin: 0px;
+              }
+			
+			h4{
+			
+			font-size:90px;
+									
+			}
+            
+		
+			
+			.card-deck{
+                
+				margin:40px;
+                
+			}
+			.footer{
+                
+			background-color:aqua;
+			margin-top:40px;
+			text-align:center;
+			padding:40px;
+			height:150px;
+                
+			}
+            .container1{
+                
+                margin-right: 10px;
+            }
+			
+		.flex-container {
+			
+			display: flex;
+			flex-wrap: nowrap;
+									
+			}
+			
+			.flex-container > 6 {
+			
+			width: 100px;
+			margin: 10px;
+			text-align: center;
+			line-height: 75px;
+
+			}
+		
+            #active{
+                
+                margin-left: -15px;
+                
+            }
+            h6{
+                
+                color:red;
+                margin-top: 65px;
+                margin-left: 8px;
+                font-size: 20px;
+            }
+            p.clear {
+                
+                clear: both;
+            }
+            .fa-arrow-up{
+                
+                color: blue;
+            }
+            .fa-arrow-down{
+                
+                color: blue;
+            }
+            #curve_chart{
+                
+                margin-left: -40px;
+           
+            }
+            .navbar{
+                
+                height :42px;
+            }
+            #active{
+                
+                margin-right: 8px;
+            }
+          
+             
+                
+            
+</style>
